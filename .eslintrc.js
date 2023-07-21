@@ -395,6 +395,7 @@ module.exports = {
   }, {
     files: [
       'JSDemos/Demos/**/React/*.*',
+      'JSDemos/Demos/**/ReactJs/*.*',
       'utils/templates/React/*.*',
     ],
     extends: [
